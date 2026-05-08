@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**altanecbogdan-dot/altanecbogdan-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Моё портфолио
 
-Here are some ideas to get you started:
+## Привет! Я — начинающий джуниор-разработчик
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я люблю программировать и только начинаю свой путь в сфере разработки. Моя цель — стать опытным специалистом, и я практикуюсь в нескольких языках и технологиях.
+
+---
+
+## 🔧 Мои навыки
+
+- **Kotlin** | Мобильная разработка, Android  
+- **C#** | Разработка под Windows, Web  
+- **C++** | Высокопроизводительные системы, игры  
+- **HTML** | Верстка сайтов
+
+---
+
+## 💻 Мои проекты
+
+| Проект | Описание | Ссылка |
+|---------|------------|---------|
+| **Сайт** | Новостной сайт | [Посмотреть](https://github.com/altanecbogdan-dot/sessii/tree/main/NEWSITE) |
+| **Банк** | Простой банк | [Посмотреть](https://github.com/altanecbogdan-dot/Bank) |
+| **Портфолио сайт** | Личное портфолио и контакты | [Посмотреть](https://github.com/altanecbogdan-dot/my-portfolio/tree/main) |
+| **Сайт на Tilda** | Сайт про бетон-завод | [Посмотреть](http://rabota20218.tilda.ws) |
+
+
+---
+
+## 📫 Связь со мной
+
+- Telegramm : @StonikoVski
+- Email: altanecbogdan@gmail.com
+
+---
+
+## 🎨 Немного о себе
+
+Я увлечённый начинающий разработчик, который стремится расти и развиваться. Люблю учиться новым технологиям и всегда открыт для новых проектов и идей!
+
+---
+
+
+
