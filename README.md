@@ -24,7 +24,7 @@
 | **Банк** | Простой банк | [Посмотреть](https://github.com/altanecbogdan-dot/Bank) |
 | **Портфолио сайт** | Личное портфолио и контакты | [Посмотреть](https://github.com/altanecbogdan-dot/my-portfolio/tree/main) |
 | **Сайт на Tilda** | Сайт про бетон-завод | [Посмотреть](http://rabota20218.tilda.ws) |
-| **Финансовый помощник ** | сделанный на Android Studio| [Посмотреть](http://rabota20218.tilda.ws) |
+| **Финансовый помощник** | сделанный на Android Studio| [Посмотреть](https://github.com/altanecbogdan-dot/FinanseHelper) |
 
 
 ---
